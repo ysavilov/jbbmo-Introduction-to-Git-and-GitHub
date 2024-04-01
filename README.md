@@ -3,6 +3,8 @@
 ## Simple Interest Calculator
 
 ############### ALL BUGS ARE FIXED
+############### ALL BUGS ARE FIXED
+############### ALL BUGS ARE FIXED
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
