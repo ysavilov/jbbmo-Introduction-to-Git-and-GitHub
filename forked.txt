@@ -1,0 +1,9 @@
+This is a part of peer garaded assignment
+Task 1: Submit the URL of the forked repository. (2 pts)
+
+0 pts: The URL is not submitted or the link doesn't work.
+
+1 pt: The URL is a valid link, but the contents are not forked correctly.
+
+2 pts: The URL is a valid link and is the fork of the given 
+repository with all the contents.
