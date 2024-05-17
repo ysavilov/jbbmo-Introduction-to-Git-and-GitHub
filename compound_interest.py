@@ -8,7 +8,7 @@
 # t, time period in years
 # r, annual rate of interest
 
-# Output:
+# Output: changed
 # compound interest = p * (1 + r/100)^t
 
 
